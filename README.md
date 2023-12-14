@@ -29,7 +29,7 @@
 
 
 ### Structure of object-oriented programming
-  ## ![Alt text](../Images/image-1.png)
+  ## ![Alt text](/Images/image-1.png)
 
  Class: A class is a data type that provides a framework for creating objects. You can define a class to create multiple objects without writing additional code.
 
@@ -70,7 +70,7 @@ An object in Java is a basic unit of Object-Oriented Programming and represents 
 - Behavior: It is represented by the methods of an object. It also reflects the response of an object with other objects.
 
 ### Simple Class in Java
- ## ![Alt text](../Images/simple%20class.png)
+ ## ![Alt text](/Images/simple%20class.png)
 
 ##### >Try it with Yourself to Support Idea<
 
@@ -100,7 +100,7 @@ The access modifiers in Java specifies the accessibility or scope of a field, me
 
 - Public: The access level of a public modifier is everywhere. It can be accessed from within the class, outside the class, within the package and outside the package.
 
-## ![Alt text](../Images/image-8.png)
+## ![Alt text](/Images/image-8.png)
 
 ## Taking Input With Scanner 
 
@@ -119,7 +119,7 @@ To use the Scanner we need to import the Scanner class from the util package as
 - String : next() and nextLine()
 - Double : nextDouble() 
 
-## ![](../Images/Scanner.png)
+## ![](/Images/Scanner.png)
 
 ## Final and Static Access Modifier
 ### Final
@@ -146,11 +146,11 @@ is a reference variable that refers to the current object, or can be said “thi
 
 ### OUTPUT
 
-## ![Alt text](../Images/image-4.png)
+## ![Alt text](/Images/image-4.png)
 
 ## Principles of OOP
 
-  ## ![Alt text](../Images/image.png)
+  ## ![Alt text](/Images/image.png)
 
  ### Object-oriented programming is based on the following principles:
 
@@ -195,7 +195,7 @@ The extends keyword is used for inheritance in Java. Using the extends keyword i
 super is used to call a superclass constructor: When a subclass is created, its constructor must call the constructor of its parent class. This is done using the super() keyword, which calls the constructor of the parent class.
 
 ### Simple Example on Inheritance
-## ![Alt text](../Images/Inheritance.png)
+## ![Alt text](/Images/Inheritance.png)
 
 ## Encapsulation in Java 
 
@@ -203,11 +203,11 @@ super is used to call a superclass constructor: When a subclass is created, its 
 
  In Java, encapsulation is achieved by declaring the instance variables of a class as private, which means they can only be accessed within the class.
 
-## ![Alt text](../Images/image-5.png)
+## ![Alt text](/Images/image-5.png)
 
 #### Look at This Image to Understand 
 
-## ![Alt text](../Images/encapsulation.png)
+## ![Alt text](/Images/encapsulation.png)
 
 ## Polymorphism in Java
 
@@ -229,7 +229,7 @@ It is also known as static polymorphism. This type of polymorphism is achieved b
 > Overloading : When there are multiple functions with the same name but different parameters
 Functions can be overloaded by changes in the number of arguments or/and a change in the type of arguments.
 
-## ![](../Images/overloading.png)
+## ![](/Images/overloading.png)
 
 
 #### Runtime Polymorphism
@@ -239,7 +239,7 @@ It is also known as Dynamic Method Dispatch. It is a process in which a function
 > Overriding : When there are multiple functions with the same name but different Signatures with changing Paramiter list that
 make the code more readable and providing a way to create flexible and reusable code.
 
-## ![](../Images/Overriding.png)
+## ![](/Images/Overriding.png)
 
 ## Abstraction in Java
 
@@ -255,11 +255,11 @@ Data Abstraction may also be defined as the process of identifying only the requ
 
  - A method-defined abstract must always be redefined in the subclass, thus making overriding compulsory or making the subclass itself abstract.
 
- ## ![](../Images/abstraction.png)
+ ## ![](/Images/abstraction.png)
 
  #### Output
 
- ## ![Alt text](../Images/image-6.png)
+ ## ![Alt text](/Images/image-6.png)
 
 
 
@@ -279,9 +279,9 @@ An Interface in Java programming language is defined as an abstract type used to
 
 The interface in Java is a mechanism to achieve abstraction. There can be only abstract methods in the Java interface, not the method body. It is used to achieve abstraction and multiple inheritances in Java using Interface. In other words, you can say that interfaces can have abstract methods and variables. It cannot have a method body. Java Interface also represents the IS-A relationship.
 
-## ![Alt text](../Images/image-7.png)
+## ![Alt text](/Images/image-7.png)
 
-## ![](../Images/interface1.png)
+## ![](/Images/interface1.png)
 
 ## toString() Method in Java 
 
@@ -291,7 +291,7 @@ The toString() method returns the String representation of the object.
 
 If you print any object, Java compiler internally invokes the toString() method on the object. So overriding the toString() method, returns the desired output, it can be the state of an object etc. depending on your implementation.
 
-## ![](../Images/tostring.png)
+## ![](/Images/tostring.png)
 
 #### Advantage of Java toString() method
 
@@ -301,7 +301,7 @@ By overriding the toString() method of the Object class, we can return values of
 
 A Java enumeration is a class type. Although we don’t need to instantiate an enum using new, it has the same capabilities as other classes. This fact makes Java enumeration a very powerful tool. Just like classes, you can give them constructors, add instance variables and methods, and even implement interfaces.
 
-## ![Alt text](../Images/ENUM.png)
+## ![Alt text](/Images/ENUM.png)
 
 --------------------------------------------------------------------------------
 
