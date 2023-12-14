@@ -142,7 +142,7 @@ In Java accessors are used to get the value of a private field and mutators are 
 
 is a reference variable that refers to the current object, or can be said “this” in Java is a keyword that refers to the current object instance
 
-## ![Alt text](../Images/Dog%20class.png)
+## ![Alt text](/Images/Dog%20class.png)
 
 ### OUTPUT
 
