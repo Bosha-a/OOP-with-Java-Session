@@ -14,6 +14,7 @@
 ## [Session](https://cisuezedu.sharepoint.com/:v:/s/TROSE/ETelVywOTGpCljRYrvCUlGgBeuqsqdoUgzeFxNhT9lkGoA?e=Ee2dw2)
 
 ## OutLines
+
 - Structure of object-oriented programming
 - Principles Of OOP
 - Calsses
