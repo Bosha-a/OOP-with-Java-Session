@@ -4,14 +4,9 @@
 
  OOP was developed to increase the reusability and maintainability of source code. Transparent representation of the control flow had no priority and was meant to be handled by a compiler. With the increasing relevance of parallel hardware and multithreaded coding, developing transparent control flow becomes more important, something hard to achieve with OOP
 
-### Part1
-## [Session](https://cisuezedu.sharepoint.com/:v:/s/TROSE/ESrqltJ57pVEifpxqsyXa9IBTphJ2Dj3WBQzYWQA2dNVWQ?e=ooeHnl)
-### Part2
-## [Session](https://cisuezedu.sharepoint.com/:v:/s/TROSE/EXJXWDaX0rdPtRvPxlCvVREBMap2xYE7sYdmABKysm9giA?e=Kfr3Od)
-### Part3
-## [Session](https://cisuezedu.sharepoint.com/:v:/s/TROSE/EZ0besXpwqNEu_zhCthb7XwB-aKxpuHWM7NTBwd0neuZgA?e=etP6h2)
-### Part4
-## [Session](https://cisuezedu.sharepoint.com/:v:/s/TROSE/ETelVywOTGpCljRYrvCUlGgBeuqsqdoUgzeFxNhT9lkGoA?e=Ee2dw2)
+### Session Record
+## [Session](https://drive.google.com/drive/u/1/folders/1fatW7a1Y5KgtUai8H6giu5Ki5SQ0AIM-)
+
 
 ## OutLines
 
